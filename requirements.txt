@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+category-encoders
+scikit-learn
+geopandas
+xgboost
+scipy
+lightgbm
